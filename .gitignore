@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+queue_outputs/
+queue_outputs2/
+runs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.webm
+.env
+.DS_Store
+Thumbs.db
