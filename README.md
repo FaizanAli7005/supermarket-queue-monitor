@@ -94,4 +94,4 @@ The training notebook references the dataset source used during model developmen
 
 ## Author
 
-Muhammad Faizan Ali
+Muhammad Faizan Ali, BSCS student at FAST NUCES Lahore.
